@@ -59,10 +59,6 @@ Model achieved **MAE < 3500**
 ## 📊 Output
 Graph comparing actual vs predicted healthcare costs.
 
-(Add your graph image below)
-
-![Output Graph](your-image-link-here)
-
 ---
 
 ## 🚀 How to Run
